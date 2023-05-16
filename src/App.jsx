@@ -1,7 +1,7 @@
 import { Suspense, lazy } from 'react';
 import { Route, Routes } from 'react-router';
 
-const HomeLazyPage = lazy(() => import('./views/Home'));
+const HomeLazyPage = lazy(() => import('./views/Home/HomePage'));
 const TweetsLazyPage = lazy(() => import('./views/Tweets/TweetsPage'));
 const NotFoundLazyPage = lazy(() => import('./views/NotFound/NotFoundPage'));
 
