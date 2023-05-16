@@ -1,6 +1,6 @@
 {
 	"name": "goit-test-task",
-	"homepage": "https://MagisterUnivers.github.io/GoIT-Test-Task",
+	"homepage": "https://MagisterUnivers.github.io/GoIT-Test-Task/",
 	"predeploy": "npm run build",
 	"version": "0.1.0",
 	"private": true,
