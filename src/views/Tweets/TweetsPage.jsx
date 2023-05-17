@@ -1,4 +1,4 @@
-import Tweets from '../../components/Tweets/Tweets';
+import Tweets from '../../components/Tweets/tweets';
 
 const TweetsPage = () => {
 	return <Tweets />;
