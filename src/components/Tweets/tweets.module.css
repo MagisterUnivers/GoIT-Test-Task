@@ -30,6 +30,7 @@
 
 .loadMore:hover {
   background-color: cyan;
+  transition: background 0.3s ease, box-shadow 0.3s ease;
 }
 
 

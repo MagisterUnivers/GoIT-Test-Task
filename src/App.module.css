@@ -5,6 +5,9 @@
   justify-content: center;
   margin-top: 30px;
   margin-bottom: -40px;
+
+  position: relative;
+  z-index: 20;
 }
 
 .active {

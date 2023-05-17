@@ -11,10 +11,18 @@ const App = () => {
 	return (
 		<>
 			<div className={styles.sidebar}>
-				<NavLink to="/" activeclassname={styles.active}>
+				<NavLink
+					to="/"
+					activeclassname={styles.active}
+					style={{ fontSize: '50px' }}
+				>
 					Home
 				</NavLink>
-				<NavLink to="/tweets" activeclassname={styles.active}>
+				<NavLink
+					to="/tweets"
+					activeclassname={styles.active}
+					style={{ fontSize: '50px' }}
+				>
 					Tweets
 				</NavLink>
 			</div>

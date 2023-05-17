@@ -22,6 +22,12 @@ const Tweets = () => {
 		fetchData();
 	}, []);
 
+	/**
+		|============================
+		| Universal increament and decrement
+		|============================
+	*/
+
 	const handleFollowClick = async (id) => {
 		const updatedData = data.map((item) => {
 			if (item.id === id) {
@@ -45,6 +51,12 @@ const Tweets = () => {
 			console.log('Error updating user:', error);
 		}
 	};
+
+	/**
+		|============================
+		| LoadMore btn logic
+		|============================
+	*/
 
 	const handleClickLoadMore = () => {
 		const loadMoreData = async () => {
