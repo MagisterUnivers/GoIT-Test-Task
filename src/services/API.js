@@ -32,9 +32,9 @@ export const updateUser = async (id, updatedData) => {
 };
 
 export const loadMore = async () => {
-	page = +1;
+	page += 1;
 	try {
-		const response = await instance.put(`users/?page=${page}&limit=3`);
+		const response = await instance.get(`users/?page=${page}&limit=3`);
 		return response.data;
 	} catch (error) {
 		return error;

@@ -6,7 +6,7 @@ const FooterCard = ({ tweets, followers, id, handleClick, subscribed }) => {
 			<div className={styles.container}>
 				<p className={styles.subtext}>{tweets} TWEETS</p>
 				<p className={[styles.subtext, styles.lastChild].join(' ')}>
-					{followers} FOLLOWERS
+					{followers.toLocaleString().replace(/\s/g, ',')} FOLLOWERS
 				</p>
 				<button
 					className={`${styles.button} ${
