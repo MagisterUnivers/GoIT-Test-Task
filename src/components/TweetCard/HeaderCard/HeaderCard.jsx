@@ -1,5 +1,5 @@
 const HeaderCard = () => {
-	return;
+	return <div>Header</div>;
 };
 
 export default HeaderCard;

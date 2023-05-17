@@ -1,5 +1,5 @@
 const FooterCard = () => {
-	return;
+	return <div>Footer</div>;
 };
 
 export default FooterCard;

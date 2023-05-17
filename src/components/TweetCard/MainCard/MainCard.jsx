@@ -1,5 +1,5 @@
 const MainCard = () => {
-	return;
+	return <div>Main section</div>;
 };
 
 export default MainCard;
