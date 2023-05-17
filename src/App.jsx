@@ -29,7 +29,7 @@ const App = () => {
 			<div className="content">
 				<Suspense fallback={<div>Loading...</div>}>
 					<Routes>
-						<Route path="/" index element={<HomeLazyPage />} />
+						<Route path="/" element={<HomeLazyPage />} />
 						<Route path="/tweets" element={<TweetsLazyPage />} />
 						<Route path="*" element={<NotFoundLazyPage />} />
 					</Routes>

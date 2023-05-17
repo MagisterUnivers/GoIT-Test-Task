@@ -10,10 +10,6 @@ const Tweets = () => {
 	const [data, setData] = useState([]);
 
 	useEffect(() => {
-		alert('Dont forget to check "HOME" page again :D');
-	}, []);
-
-	useEffect(() => {
 		const fetchData = async () => {
 			try {
 				const users = await getUsers();
