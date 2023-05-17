@@ -8,8 +8,13 @@ great experience!
 
 **Note: I strongly recommend testing this project on a local server build.**
 
-**Table of Contents:** **##Setup** **##Usage** **##Contributing** **##License**
-**##Setup**
+**Table of Contents:** 
+
+-**##Setup** 
+-**##Usage** 
+-**##Contributing** 
+-**##License**
+-**##Setup**
 
 
 To set up this project on your local machine, follow these steps:
