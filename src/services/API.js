@@ -5,8 +5,8 @@ const instance = axios.create({
 	headers: { 'content-type': 'application/json' }
 });
 
-let page = 1;
-const limit = 3;
+export let page = 1;
+export const limit = 3;
 
 export const getUsers = async () => {
 	try {
@@ -22,9 +22,19 @@ export const getUsers = async () => {
 	}
 };
 
-export const updateUser = async (id) => {
+export const updateUser = async (id, updatedData) => {
 	try {
-		const response = await instance.put(`users/${id}`);
+		const response = await instance.put(`users/${id}`, updatedData);
+		return response.data;
+	} catch (error) {
+		return error;
+	}
+};
+
+export const loadMore = async () => {
+	page = +1;
+	try {
+		const response = await instance.put(`users/?page=${page}&limit=3`);
 		return response.data;
 	} catch (error) {
 		return error;

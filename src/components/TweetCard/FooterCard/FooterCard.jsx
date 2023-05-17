@@ -1,14 +1,21 @@
 import styles from './FooterCard.module.css';
 
-const FooterCard = () => {
+const FooterCard = ({ tweets, followers, id, handleClick }) => {
 	return (
 		<footer>
 			<div className={styles.container}>
-				<p className={styles.subtext}>777 TWEETS</p>
+				<p className={styles.subtext}>{tweets} TWEETS</p>
 				<p className={[styles.subtext, styles.lastChild].join(' ')}>
-					100,500 FOLLOWERS
+					{followers} FOLLOWERS
 				</p>
-				<button className={styles.button}>FOLLOW</button>
+				<button
+					className={styles.button}
+					onClick={() => {
+						handleClick(id);
+					}}
+				>
+					FOLLOW
+				</button>
 			</div>
 		</footer>
 	);

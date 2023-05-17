@@ -6,17 +6,8 @@ const MainCard = ({ imageUrl }) => {
 			<div className={styles.backImg}></div>
 			<div className={styles.divWithLine}></div>
 			<div className={styles.userPhoto}>
-				<img
-					src={require('../../../image/Hansel.png')}
-					alt="User"
-					className={styles.photo}
-				/>
+				<img src={imageUrl} alt="User avatar" className={styles.photo} />
 			</div>
-			{/* <div>
-				<svg width="80" height="80">
-					<use xlinkHref={avatar}></use>
-				</svg>
-			</div> */}
 		</section>
 	);
 };
