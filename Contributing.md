@@ -1,6 +1,8 @@
 **Contributing to GoIT-Test-Task**
 
-T**hank you for considering contributing to the GoIT-Test-Task project! I am welcome contributions from everyone. By contributing, you can help improve the project and make it even better.**
+**Thank you for considering contributing to the GoIT-Test-Task project! I am welcome contributions from everyone. By contributing, you can help improve the project and make it even better.**
+
+
 
 **Ways to Contribute**
 
@@ -11,6 +13,8 @@ Reporting Issues: If you encounter any bugs, errors, or have suggestions for imp
 Enhancements: If you have ideas for new features or enhancements, feel free to submit a pull request with your proposed changes.
 
 Documentation: Improving the documentation is always valuable. If you find any areas that need clarification or have suggestions for better documentation, please let me know.
+
+
 
 Getting Started
 To contribute to this project, follow these steps:
@@ -45,6 +49,8 @@ Open a pull request on the original repository, explaining the changes you have 
 
 **Once your pull request is approved, it will be merged into the main project.**
 
+
+
 **Code Guidelines**
 
 **To maintain consistency and readability, please follow these guidelines when contributing code:**
@@ -59,9 +65,13 @@ Open a pull request on the original repository, explaining the changes you have 
 
 **Avoid making unrelated changes in a single pull request.**
 
+
+
 **Communication**
 
 **If you have any questions, concerns, or need further assistance, feel free to reach out to me through the GitHub issue tracker or by contacting vie email directly.**
+
+
 
 **License**
 
