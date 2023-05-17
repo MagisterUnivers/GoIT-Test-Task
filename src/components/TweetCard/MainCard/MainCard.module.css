@@ -1,0 +1,39 @@
+.backImg {
+  background-image: url('../../../image/picture2\ 1.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 308px;
+  height: 168px;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.divWithLine {
+  position: relative;
+  width: 100%;
+  margin-top: 18px;
+}
+
+.divWithLine::before,
+.divWithLine::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  width: 50%;
+  height: 8px;
+  background: #EBD8FF;
+  box-shadow: 0px 3.43693px 3.43693px rgba(0, 0, 0, 0.06), inset 0px -1.71846px 3.43693px #AE7BE3, inset 0px 3.43693px 2.5777px #FBF8FF;
+}
+
+
+.divWithLine::before {
+  left: 0;
+  transform: translate(0, -50%);
+}
+
+.divWithLine::after {
+  right: 0;
+  transform: translate(0, -50%);
+}
