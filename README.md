@@ -14,7 +14,7 @@ great experience!
 -**##Usage** 
 -**##Contributing** 
 -**##License**
--**##Setup**
+
 
 
 To set up this project on your local machine, follow these steps:
