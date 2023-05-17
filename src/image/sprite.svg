@@ -1,0 +1,11 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">
+  <defs>
+    <symbol id="icon-Ellipse" viewBox="0 0 32 32">
+      <path fill="#ebd8ff" d="M16.18 25.568c-6.178 0-11.186-5.008-11.186-11.186S10.002 3.196 16.18 3.196s11.186 5.008 11.186 11.186-5.008 11.186-11.186 11.186zm0 3.196c7.943 0 14.382-6.439 14.382-14.382S24.123 0 16.18 0 1.798 6.439 1.798 14.382 8.237 28.764 16.18 28.764z" style="fill:var(--color1, #ebd8ff)"/>
+    </symbol>
+    <symbol id="icon-Rectangle" viewBox="0 0 811 32">
+      <path fill="#ebd8ff" d="M0 0h810.667v17.067H0V0z" style="fill:var(--color1, #ebd8ff)"/>
+    </symbol>
+  </defs>
+</svg>
