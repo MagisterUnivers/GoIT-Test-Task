@@ -1,3 +1,7 @@
+
+![logo](https://github.com/MagisterUnivers/GoIT-Test-Task/assets/36455862/33c2bf51-61c0-4dc3-8563-3d47e7c4ee31)
+
+
 **GoIT-Test-Task**
 This project was created for two purposes:
 
@@ -19,7 +23,7 @@ To set up this project on your local machine, follow these steps:
 Clone the repository:
 
 **bash**
-Copy code![logo](https://github.com/MagisterUnivers/GoIT-Test-Task/assets/36455862/8f36de51-8eb9-4c9b-bb85-3b011f1409d7)
+
 
 git clone https://github.com/MagisterUnivers/GoIT-Test-Task.git
 Install the dependencies:
