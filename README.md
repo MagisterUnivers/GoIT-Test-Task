@@ -41,6 +41,8 @@ npm start
 **##Usage**
 Simply open the application in your web browser, browse through the pages, and interact with the features.
 
+**Its take a when i was trying to commit and build to GitHUB, so better to test it locale**
+
 **Contributing**
 **If you would like to contribute to this project, please follow the guidelines outlined in CONTRIBUTING.md. Contributions, feedback, and feature requests are always welcome!**
 
