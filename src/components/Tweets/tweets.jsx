@@ -21,28 +21,13 @@ const Tweets = () => {
 		fetchData();
 	}, []);
 
-	console.log(data);
-
-	// const handleFollowClick = async (id) => {
-	// 	const filteredArray = data.filter((item) => {
-	// 		return item.id === data.id;
-	// 	});
-	// 	const modArray = [...filteredArray, followers: +1]
-
-	// 	try {
-	// 		console.log(filteredArray);
-	// 		await updateUser(id);
-	// 	} catch (error) {
-	// 		console.log('Error updating user:', error);
-	// 	}
-	// };
-
 	const handleFollowClick = async (id) => {
 		const updatedData = data.map((item) => {
 			if (item.id === id) {
 				return {
 					...item,
-					followers: item.followers + 1
+					followers: item.followers + (item.subscribed ? -1 : 1),
+					subscribed: !item.subscribed
 				};
 			}
 			return item;
@@ -71,6 +56,7 @@ const Tweets = () => {
 						followers={item.followers}
 						id={item.id}
 						handleClick={handleFollowClick}
+						subscribed={item.subscribed}
 					/>
 				</div>
 			))}

@@ -1,0 +1,12 @@
+.sidebar {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  justify-content: center;
+}
+
+.active {
+  background-color: #f0f0f0;
+  color: tomato;
+  /* any other styles you want to apply */
+}

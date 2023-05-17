@@ -1,6 +1,6 @@
 import styles from './FooterCard.module.css';
 
-const FooterCard = ({ tweets, followers, id, handleClick }) => {
+const FooterCard = ({ tweets, followers, id, handleClick, subscribed }) => {
 	return (
 		<footer>
 			<div className={styles.container}>
@@ -9,12 +9,14 @@ const FooterCard = ({ tweets, followers, id, handleClick }) => {
 					{followers} FOLLOWERS
 				</p>
 				<button
-					className={styles.button}
+					className={`${styles.button} ${
+						subscribed ? styles.buttonSubscribed : ''
+					}`}
 					onClick={() => {
 						handleClick(id);
 					}}
 				>
-					FOLLOW
+					{subscribed ? 'FOLLOWING' : 'FOLLOW'}
 				</button>
 			</div>
 		</footer>
