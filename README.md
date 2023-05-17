@@ -18,8 +18,9 @@ To set up this project on your local machine, follow these steps:
 
 Clone the repository:
 
-****bash**
-Copy code
+**bash**
+Copy code![logo](https://github.com/MagisterUnivers/GoIT-Test-Task/assets/36455862/8f36de51-8eb9-4c9b-bb85-3b011f1409d7)
+
 git clone https://github.com/MagisterUnivers/GoIT-Test-Task.git
 Install the dependencies:
 
@@ -31,7 +32,7 @@ Start the local development server:
 bash
 Copy code
 npm start
-The application will be accessible at http://localhost:3000.**
+**The application will be accessible at http://localhost:3000.**
 
 **##Usage**
 Simply open the application in your web browser, browse through the pages, and interact with the features.
