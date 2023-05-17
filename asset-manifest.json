@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/GoIT-Test-Task/static/css/main.f3203586.css",
-    "main.js": "/GoIT-Test-Task/static/js/main.47accb31.js",
+    "main.css": "/GoIT-Test-Task/static/css/main.61435204.css",
+    "main.js": "/GoIT-Test-Task/static/js/main.468e539a.js",
     "static/js/993.5e5ef10a.chunk.js": "/GoIT-Test-Task/static/js/993.5e5ef10a.chunk.js",
-    "static/js/344.ba33f9b2.chunk.js": "/GoIT-Test-Task/static/js/344.ba33f9b2.chunk.js",
+    "static/css/353.9e95ceb1.chunk.css": "/GoIT-Test-Task/static/css/353.9e95ceb1.chunk.css",
+    "static/js/353.3985d45a.chunk.js": "/GoIT-Test-Task/static/js/353.3985d45a.chunk.js",
     "static/js/884.631c5aa0.chunk.js": "/GoIT-Test-Task/static/js/884.631c5aa0.chunk.js",
+    "static/media/picture2 1.png": "/GoIT-Test-Task/static/media/picture2 1.03bd8e18e844144aab2c.png",
+    "static/media/vector.svg": "/GoIT-Test-Task/static/media/vector.eb74a9cfcc8c2946c8beb2961898c04b.svg",
     "index.html": "/GoIT-Test-Task/index.html",
-    "main.f3203586.css.map": "/GoIT-Test-Task/static/css/main.f3203586.css.map",
-    "main.47accb31.js.map": "/GoIT-Test-Task/static/js/main.47accb31.js.map",
+    "main.61435204.css.map": "/GoIT-Test-Task/static/css/main.61435204.css.map",
+    "main.468e539a.js.map": "/GoIT-Test-Task/static/js/main.468e539a.js.map",
     "993.5e5ef10a.chunk.js.map": "/GoIT-Test-Task/static/js/993.5e5ef10a.chunk.js.map",
-    "344.ba33f9b2.chunk.js.map": "/GoIT-Test-Task/static/js/344.ba33f9b2.chunk.js.map",
+    "353.9e95ceb1.chunk.css.map": "/GoIT-Test-Task/static/css/353.9e95ceb1.chunk.css.map",
+    "353.3985d45a.chunk.js.map": "/GoIT-Test-Task/static/js/353.3985d45a.chunk.js.map",
     "884.631c5aa0.chunk.js.map": "/GoIT-Test-Task/static/js/884.631c5aa0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3203586.css",
-    "static/js/main.47accb31.js"
+    "static/css/main.61435204.css",
+    "static/js/main.468e539a.js"
   ]
 }
