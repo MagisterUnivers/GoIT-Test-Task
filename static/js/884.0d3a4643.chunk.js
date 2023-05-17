@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgoit_test_task=self.webpackChunkgoit_test_task||[]).push([[884],{884:function(t,n,e){e.r(n),e.d(n,{default:function(){return i}});var r=e(87),s=e(184),u=function(){return(0,s.jsxs)(s.Fragment,{children:[" ",(0,s.jsx)("div",{children:"404 PAGE NOT FOUND"}),(0,s.jsx)(r.rU,{to:"/",children:"Home"})]})},i=function(){return(0,s.jsx)(u,{})}}}]);
+//# sourceMappingURL=884.0d3a4643.chunk.js.map
