@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/GoIT-Test-Task/static/css/main.f83bb8a1.css",
-    "main.js": "/GoIT-Test-Task/static/js/main.ccdd8f3b.js",
+    "main.js": "/GoIT-Test-Task/static/js/main.5a212767.js",
     "static/css/962.54de2b6e.chunk.css": "/GoIT-Test-Task/static/css/962.54de2b6e.chunk.css",
-    "static/js/962.b91ebf34.chunk.js": "/GoIT-Test-Task/static/js/962.b91ebf34.chunk.js",
+    "static/js/962.afd4b138.chunk.js": "/GoIT-Test-Task/static/js/962.afd4b138.chunk.js",
     "static/css/865.2e2aeab8.chunk.css": "/GoIT-Test-Task/static/css/865.2e2aeab8.chunk.css",
     "static/js/865.266cf790.chunk.js": "/GoIT-Test-Task/static/js/865.266cf790.chunk.js",
     "static/js/884.0d3a4643.chunk.js": "/GoIT-Test-Task/static/js/884.0d3a4643.chunk.js",
     "static/js/693.461976a7.chunk.js": "/GoIT-Test-Task/static/js/693.461976a7.chunk.js",
     "static/js/845.063082d8.chunk.js": "/GoIT-Test-Task/static/js/845.063082d8.chunk.js",
+    "static/media/day.mp3": "/GoIT-Test-Task/static/media/day.ef241a062f8f1f9e21cf.mp3",
     "static/media/morning.mp3": "/GoIT-Test-Task/static/media/morning.74ec032f9388f8b17a80.mp3",
     "static/media/evening.mp3": "/GoIT-Test-Task/static/media/evening.28c7af3c3e992627dfaf.mp3",
-    "static/media/day.mp3": "/GoIT-Test-Task/static/media/day.11b253710b32cb12016b.mp3",
     "static/media/picture2 1.png": "/GoIT-Test-Task/static/media/picture2 1.03bd8e18e844144aab2c.png",
     "static/media/vector.svg": "/GoIT-Test-Task/static/media/vector.eb74a9cfcc8c2946c8beb2961898c04b.svg",
     "index.html": "/GoIT-Test-Task/index.html",
     "main.f83bb8a1.css.map": "/GoIT-Test-Task/static/css/main.f83bb8a1.css.map",
-    "main.ccdd8f3b.js.map": "/GoIT-Test-Task/static/js/main.ccdd8f3b.js.map",
+    "main.5a212767.js.map": "/GoIT-Test-Task/static/js/main.5a212767.js.map",
     "962.54de2b6e.chunk.css.map": "/GoIT-Test-Task/static/css/962.54de2b6e.chunk.css.map",
-    "962.b91ebf34.chunk.js.map": "/GoIT-Test-Task/static/js/962.b91ebf34.chunk.js.map",
+    "962.afd4b138.chunk.js.map": "/GoIT-Test-Task/static/js/962.afd4b138.chunk.js.map",
     "865.2e2aeab8.chunk.css.map": "/GoIT-Test-Task/static/css/865.2e2aeab8.chunk.css.map",
     "865.266cf790.chunk.js.map": "/GoIT-Test-Task/static/js/865.266cf790.chunk.js.map",
     "884.0d3a4643.chunk.js.map": "/GoIT-Test-Task/static/js/884.0d3a4643.chunk.js.map",
@@ -27,6 +27,6 @@
   },
   "entrypoints": [
     "static/css/main.f83bb8a1.css",
-    "static/js/main.ccdd8f3b.js"
+    "static/js/main.5a212767.js"
   ]
 }
